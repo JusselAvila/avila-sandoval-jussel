@@ -1,6 +1,7 @@
-# NOMBRE PROYECTO
+﻿# NOMBRE PROYECTO
 
-Gestión de notas de estudiantes universitarios 
+Gestión de notas de estudiantes universitarios
+
 
 ## Introducción
 
